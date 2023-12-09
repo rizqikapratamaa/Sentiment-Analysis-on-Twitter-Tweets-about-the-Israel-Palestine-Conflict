@@ -1,0 +1,102 @@
+if Contains 'Free'?
+|-- Yes: 
+|   |-- Contains 'Palestine' or 'Palestinian'?
+|       |-- Yes -> Pro-Palestine
+|       |-- No:
+|           |-- Contains 'Israel' or 'Israeli'?
+|               |-- Yes -> Pro-Israel
+|               |-- No:
+|                   |-- Contains 'Hostage' or 'Hamas'?
+|                       |-- Yes -> Pro-Israel
+|                       |-- No -> Unclassified
+|-- No: 
+|   |-- Contains 'Zionis' or 'Israel'?
+|       |-- Yes: 
+|       |   |-- Contains 'Kill', 'Tortur', 'Humiliat', 'Murder', 'Assault', 'Force', 'God', 'Child', 'Palestinian'?
+|       |       |-- Yes -> Pro-Palestine
+|       |       |-- No:
+|       |           |-- Contains 'War'?
+|       |               |-- Yes -> Pro-Israel
+|       |               |-- No:
+|       |                   |-- Contains 'Rights'?
+|       |                       |-- Yes -> Pro-Palestine
+|       |                       |-- No:
+|       |                           |-- Contains 'Justice'?
+|       |                               |-- Yes -> Pro-Palestine
+|       |                               |-- No:
+|       |                                   |-- Contains 'Equality'?
+|       |                                       |-- Yes -> Pro-Palestine
+|       |                                       |-- No:
+|       |                                           |-- Contains 'Freedom'?
+|       |                                               |-- Yes -> Pro-Palestine
+|       |                                               |-- No:
+|       |                                                   |-- Contains 'Democracy'?
+|       |                                                       |-- Yes -> Pro-Palestine
+|       |                                                       |-- No:
+|       |                                                           |-- Contains 'Oppression'?
+|       |                                                               |-- Yes -> Pro-Palestine
+|       |                                                               |-- No:
+|       |                                                                   |-- Contains 'Terrorism'?
+|       |                                                                       |-- Yes -> Pro-Israel
+|       |                                                                       |-- No:
+|       |                                                                           |-- Contains 'Martyred'?
+|       |                                                                               |-- Yes -> Pro-Palestine
+|       |                                                                               |-- No -> Unclassified
+|       |-- No: 
+|           |-- Contains 'Stop' and 'Kill'?    
+|               |-- Yes:
+|               |   |-- Contains 'War'?
+|               |       |-- Yes -> Pro-Israel
+|               |       |-- No:
+|               |           |-- Contains 'Rights'?
+|               |               |-- Yes -> Pro-Palestine
+|               |               |-- No:
+|               |                   |-- Contains 'Justice'?
+|               |                       |-- Yes -> Pro-Palestine
+|               |                       |-- No:
+|               |                           |-- Contains 'Equality'?
+|               |                               |-- Yes -> Pro-Palestine
+|               |                               |-- No:
+|               |                                   |-- Contains 'Freedom'?
+|               |                                       |-- Yes -> Pro-Palestine
+|               |                                       |-- No:
+|               |                                           |-- Contains 'Democracy'?
+|               |                                               |-- Yes -> Pro-Palestine
+|               |                                               |-- No:
+|               |                                                   |-- Contains 'Oppression'?
+|               |                                                       |-- Yes -> Pro-Palestine
+|               |                                                       |-- No:
+|               |                                                           |-- Contains 'Terrorism'?
+|               |                                                               |-- Yes -> Pro-Israel
+|               |                                                               |-- No:
+|               |                                                                   |-- Contains 'Martyred'?
+|               |                                                                       |-- Yes -> Pro-Palestine
+|               |                                                                       |-- No -> Unclassified
+|               |-- No:
+|                   |-- Contains 'War'?
+|                       |-- Yes -> Pro-Israel
+|                       |-- No:
+|                           |-- Contains 'Rights'?
+|                               |-- Yes -> Pro-Palestine
+|                               |-- No:
+|                                   |-- Contains 'Justice'?
+|                                       |-- Yes -> Pro-Palestine
+|                                       |-- No:
+|                                           |-- Contains 'Equality'?
+|                                               |-- Yes -> Pro-Palestine
+|                                               |-- No:
+|                                                   |-- Contains 'Freedom'?
+|                                                       |-- Yes -> Pro-Palestine
+|                                                       |-- No:
+|                                                           |-- Contains 'Democracy'?
+|                                                               |-- Yes -> Pro-Palestine
+|                                                               |-- No:
+|                                                                   |-- Contains 'Oppression'?
+|                                                                       |-- Yes -> Pro-Palestine
+|                                                                       |-- No:
+|                                                                           |-- Contains 'Terrorism'?
+|                                                                               |-- Yes -> Pro-Israel
+|                                                                               |-- No:
+|                                                                                   |-- Contains 'Martyred'?
+|                                                                                       |-- Yes -> Pro-Palestine
+|                                                                                       |-- No -> Unclassified
