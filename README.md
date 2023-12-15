@@ -1,6 +1,6 @@
 # Research Repository: 🌐 Applying Graph Theory in Decision Trees for Public Sentiment Analysis on Twitter Tweets about the Israel-Palestine Conflict 🌐
 
-Welcome to the repository dedicated to my research project, "Applying Graph Theory in Decision Trees for Public Sentiment Analysis on Twitter Tweets about the Israel-Palestine Conflict." This project was undertaken as part of my third-semester coursework in Discrete Mathematics at the Bandung Institute of Technology (ITB).
+Welcome to the repository dedicated to my research project, "Applying Graph Theory in Decision Trees for Public Sentiment Analysis on Twitter Tweets about the Israel-Palestine Conflict." This project was undertaken as part of my third-semester coursework in Discrete Mathematics in Computer Science major at the Bandung Institute of Technology (ITB).
 
 ## 🚀 Project Highlights
 
